@@ -32,3 +32,6 @@ MetaData : Reviewer Metadata - No. of Reviews and followers
 Time: Date and Time of Review
 
 Pictures : No. of pictures posted with review 
+
+## Conclusion
+It can be concluded that by using K Means Clustering and Agglomerative Hierarchial Clustering we have come up with 4 clusters of Restaurants based on the features provided in the dataset. For Sentiment Analysis we considered Logistic Regression as the model to predict the sentiments of the reviewers based on their reviews and ratings.
